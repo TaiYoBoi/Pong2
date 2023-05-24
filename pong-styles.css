@@ -73,8 +73,8 @@ body {
 }
 
 .ball {
-  width: 5px;
-  height: 5px;
+  width: 10px;
+  height: 10px;
   background-color: white;
   border-radius: 10px;
   position: absolute;
