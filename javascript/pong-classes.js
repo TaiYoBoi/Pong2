@@ -18,7 +18,7 @@ export class Game {
     this.size = { x: 600, y: 500 }; //container for entire game
     this.padding = { x: 20, y: 20 }; //white space inside game border
     this.htmlElement = null; //element on HTML page
-    this.mousePosition = { x: 0, y: 0 };
+    this.mousePosition = { x: 0, y: 5 };
     this.mute = false; //default mute state
     this.volume = 6; //default volume output 0-10
     this.computerState = 0; //default computer control amount
